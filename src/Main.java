@@ -4,4 +4,5 @@ public class Main {
   }
 
   void notUsed(){}
+  void a(){}
 }
