@@ -3,5 +3,5 @@ public class Main {
     System.out.println("Hello world!");
   }
 
-  void notUsed(){}
+  void notUsed(String s){}
 }
